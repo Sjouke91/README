@@ -1,7 +1,7 @@
 # Hi there, 
-## thanks for visiting my GitHub Page!
+### thanks for visiting my GitHub Page!
 
-## About me
+**About me**
 
 I'm a full-stack developer, or at least I have set my mind on becoming one. In 2020 I've decided it was time for me to switch gears and give my career a new direction. With a background in product development and business marketing I have a broad perspective on development processes which comes in handy as a web developer.
 
