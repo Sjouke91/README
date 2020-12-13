@@ -24,7 +24,7 @@ I'm a full-stack developer, or at least I have set my mind on becoming one. In 2
 **My projects (that I'm most proud of)**
 
 **Notebooks:**
-An app made to support the future students of the codaisseur accademy. With this app we've created a central place to save, read and share notes regarding the topics thaught in class.
+An app made to support the future students of the Codaisseur academy. With this app we've created a central place to save, read and share notes regarding the topics thaught in class.
 
 - Notebooks [Front End](https://github.com/Sjouke91/Notebook-client)
 - Notebooks [Back End](https://github.com/Sjouke91/Notebook-server)
