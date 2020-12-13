@@ -25,7 +25,7 @@ I'm a full-stack developer, or at least I have set my mind on becoming one. In 2
 
 **Notebooks**
 - Notebooks [Front End](https://github.com/Sjouke91/Notebook-client)
-- Fittrack [Back End](https://github.com/Sjouke91/Notebook-server)
+- Notebooks [Back End](https://github.com/Sjouke91/Notebook-server)
 
 
 **Fittrack**
