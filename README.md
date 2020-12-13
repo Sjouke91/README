@@ -23,6 +23,12 @@ I'm a full-stack developer, or at least I have set my mind on becoming one. In 2
 
 **My projects (that I'm most proud of)**
 
+**Notebooks**
+- Notebooks [Front End](https://github.com/Sjouke91/Notebook-client)
+- Fittrack [Back End](https://github.com/Sjouke91/Notebook-server)
+
+
+**Fittrack**
 - Fittrack [Front End](https://github.com/Sjouke91/Fittrack_frontend_tc)
 - Fittrack [Back End](https://github.com/Sjouke91/fitTrack_backend)
 
