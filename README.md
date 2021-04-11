@@ -3,7 +3,7 @@
 
 I'm a junior frontend developer and I have set my mind on further develop my skills. In 2020 I've decided it was time for me to switch gears and give my career a new direction. With a background in product development and business marketing I have a broad perspective on development processes and a good eye for design which comes in handy as a web developer. Codaisseur code academy has given me a jump start in achieving my goal to become a developer. In a 11 week program I developed a fundamental web development skillset that has enabled me to make advanced react web and native applications.
 
-Currently I'm working as a frontend developer at Direct Impact, building static generated web application with NextJs, Apollo, styled components, Contentful and Mongo. 
+Currently I'm working as a frontend developer at Direct Impact, building static generated web applications with NextJs, Apollo, styled components, Contentful and Mongo. 
 
 ---
 
