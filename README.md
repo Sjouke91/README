@@ -1,7 +1,9 @@
 # Hi there, 
-### Thanks for visiting my GitHub Page!
+### Welcome to my Github page!
 
-I'm a junior full-stack developer and I have set my mind on further develop my skills. In 2020 I've decided it was time for me to switch gears and give my career a new direction. With a background in product development and business marketing I have a broad perspective on development processes which comes in handy as a web developer. Codaisseur code academy has given me a jump start in achieving my goal to become a developer. In a 11 week program I developed a fundamental web development skillset that has enabled me to make advanced react web and native applications.
+I'm a junior frontend developer and I have set my mind on further develop my skills. In 2020 I've decided it was time for me to switch gears and give my career a new direction. With a background in product development and business marketing I have a broad perspective on development processes and a good eye for design which comes in handy as a web developer. Codaisseur code academy has given me a jump start in achieving my goal to become a developer. In a 11 week program I developed a fundamental web development skillset that has enabled me to make advanced react web and native applications.
+
+Currently I'm working as a frontend developer at Direct Impact, building static generated web application with NextJs, Apollo, styled components, Contentful and Mongo. 
 
 ---
 
@@ -21,7 +23,7 @@ I'm a junior full-stack developer and I have set my mind on further develop my s
 
 ---
 
-**My projects (that I'm most proud of)**
+**My projects (the ones that I'm most proud of)**
 
 **Notebooks:**
 An app made to support the future students of the Codaisseur academy. With this app we've created a central place to save, read and share notes regarding the topics thaught in class.
