@@ -5,6 +5,8 @@ I'm a junior frontend developer and I have set my mind on further develop my ski
 
 Currently I'm working as a frontend developer at Direct Impact, building static generated web applications with NextJs, Apollo, styled components, Contentful and Mongo. 
 
+http://localhost:3000/job/4/application
+
 ---
 
 **My developer skillset:**
